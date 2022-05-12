@@ -62,7 +62,7 @@ public class FPSController : MonoBehaviour
             running = false;
         }
 
-        if(Input.GetButtonDown("Jump"))
+        if(Input.GetButtonDown("Jump") && grounded)
         {
             readyJump = true;
         }
