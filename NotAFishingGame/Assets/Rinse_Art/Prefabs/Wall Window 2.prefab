@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4032212090010829454
+--- !u!1 &4592334641784239563
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,49 +8,51 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4377106470505928756}
-  - component: {fileID: 797489740535224209}
-  - component: {fileID: 3239697784664630107}
+  - component: {fileID: 3814707944737828721}
+  - component: {fileID: 242995640365899988}
+  - component: {fileID: 2646916424020956190}
   m_Layer: 0
-  m_Name: Wall Window
+  m_Name: Wall Window 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4377106470505928756
+--- !u!4 &3814707944737828721
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4032212090010829454}
+  m_GameObject: {fileID: 4592334641784239563}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.2617404, y: 0.06999993, z: 1.6667948}
+  m_LocalPosition: {x: 1.4668155, y: 2.2204459e-17, z: 2.5332415}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &797489740535224209
+--- !u!33 &242995640365899988
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4032212090010829454}
+  m_GameObject: {fileID: 4592334641784239563}
   m_Mesh: {fileID: 4579454407841743219, guid: d2acb5f6fa5892c41a35579d88b6fbd9, type: 3}
---- !u!23 &3239697784664630107
+--- !u!23 &2646916424020956190
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4032212090010829454}
+  m_GameObject: {fileID: 4592334641784239563}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
