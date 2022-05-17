@@ -20,7 +20,6 @@ GameObject:
   - component: {fileID: 8601564661391097929}
   - component: {fileID: 4679590661698752492}
   - component: {fileID: 7428064850101336870}
-  - component: {fileID: 5991412909669937684}
   m_Layer: 0
   m_Name: Kapstok
 =======
@@ -166,6 +165,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!136 &5991412909669937684
 CapsuleCollider:
@@ -208,3 +208,5 @@ CapsuleCollider:
 =======
 >>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)

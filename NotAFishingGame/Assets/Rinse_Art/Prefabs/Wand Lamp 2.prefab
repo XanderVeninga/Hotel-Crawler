@@ -11,11 +11,14 @@ GameObject:
   - component: {fileID: 8317298948340399152}
   - component: {fileID: 4954840053512680341}
   - component: {fileID: 7144916343942334303}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   - component: {fileID: 4311120731676232521}
 =======
   - component: {fileID: 818141515911107817}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)
   m_Layer: 0
   m_Name: Wand Lamp 2
   m_TagString: Untagged
@@ -88,6 +91,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!64 &4311120731676232521
 =======
@@ -106,3 +110,5 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 1825875415147931077, guid: ec77894d02b1da343be58dd9ad3637d1, type: 3}
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)

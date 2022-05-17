@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 2060195204671530846}
   - component: {fileID: 3114400816847907067}
   - component: {fileID: 926725862835297329}
+<<<<<<< HEAD
   - component: {fileID: 2489679436436218}
 ========
   - component: {fileID: 3646026551765197189}
@@ -28,6 +29,8 @@ GameObject:
   - component: {fileID: 2364636410713402438}
   - component: {fileID: 519065147593332876}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)
   m_Layer: 0
   m_Name: Roof Beam Block
   m_TagString: Untagged
@@ -128,6 +131,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Roof Beam Block.prefab
 --- !u!65 &2489679436436218
@@ -147,3 +151,5 @@ BoxCollider:
 >>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Wall Doorway 2.prefab
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)

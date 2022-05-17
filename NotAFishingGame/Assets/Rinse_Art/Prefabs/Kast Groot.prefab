@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 7786396036063512413}
   - component: {fileID: 6602574358141225208}
   - component: {fileID: 8954837403584740402}
+<<<<<<< HEAD
   - component: {fileID: 33764789007325586}
 =======
   - component: {fileID: 1297904749976719672}
@@ -23,6 +24,8 @@ GameObject:
   - component: {fileID: 164444758552898135}
   - component: {fileID: -1703236301794829638}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)
   m_Layer: 0
   m_Name: Kast Groot
   m_TagString: Untagged
@@ -119,6 +122,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!64 &33764789007325586
 MeshCollider:
@@ -148,3 +152,5 @@ BoxCollider:
   m_Size: {x: 0.6500006, y: 2.5, z: 2.0000002}
   m_Center: {x: -0.07506831, y: 1.2499993, z: -0.0000016987324}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 8d2ade5 (Pre-fabs props gemaakt)
