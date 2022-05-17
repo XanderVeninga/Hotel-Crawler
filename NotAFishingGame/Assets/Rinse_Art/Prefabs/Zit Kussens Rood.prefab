@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6421368034380371893}
   - component: {fileID: 7976600213270124560}
   - component: {fileID: 5284522161322962138}
+  - component: {fileID: 6399337583367842329}
   m_Layer: 0
   m_Name: Zit Kussens Rood
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6399337583367842329
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5933097337977703695}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.78602195, y: 1.6974576, z: 0.17046987}
+  m_Center: {x: -0.052052483, y: -0.008174657, z: -0.28929433}

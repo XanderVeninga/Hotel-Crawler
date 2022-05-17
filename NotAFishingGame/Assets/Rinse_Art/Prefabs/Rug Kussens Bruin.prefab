@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 376552839626844910}
   - component: {fileID: 3645122136601814347}
   - component: {fileID: 1545548365167628673}
+  - component: {fileID: 6473584708138722581}
   m_Layer: 0
   m_Name: Rug Kussens Bruin
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6473584708138722581
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040921387410075732}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.20414478, y: 0.5439992, z: 1.6974874}
+  m_Center: {x: 0.30434898, y: 0.5943267, z: -0.008159846}
