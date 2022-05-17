@@ -5,7 +5,7 @@ using UnityEngine;
 public class BoobaAI : MonoBehaviour
 {
     public Rigidbody rb;
-    public Transform transPlayer;
+    public Transform player;
 
     public float boobaMovSpeed;
     public float boobaRotSpeed;
@@ -13,10 +13,12 @@ public class BoobaAI : MonoBehaviour
 
     public float sphereRange;
     public LayerMask layerPlayer;
+    RaycastHit hit;
 
     public Vector3 playerPos;
 
     public bool found;
+    public bool seePlayer;
 
     void Awake()
     {
@@ -50,7 +52,7 @@ public class BoobaAI : MonoBehaviour
 
         if(found)
         {
-            playerPos = new Vector3(transPlayer.position.x, transform.position.y, transPlayer.position.z);
+            playerPos = new Vector3(player.position.x, transform.position.y, player.position.z);
 
             transform.position = Vector3.Lerp(transform.position, playerPos, boobaMovSpeed * Time.deltaTime);
             transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(playerPos - transform.position), boobaRotSpeed * Time.deltaTime);
@@ -63,8 +65,33 @@ public class BoobaAI : MonoBehaviour
 
         if(range.Length != 0)
         {
-            transPlayer = range[0].transform;
-            found = true;
+            seePlayer = true;
+
+            player = range[0].transform;
+        }
+        //else
+        //{
+        //    seePlayer = false;
+        //    player = null;
+        //}
+
+        if(seePlayer)
+        {
+            Vector3 dirToPlayer = (player.position - transform.position).normalized;
+            float disToPlayer = Vector3.Distance(transform.position, player.position);
+
+            Debug.DrawRay(transform.position, dirToPlayer * disToPlayer, Color.red);
+            if(Physics.Raycast(transform.position, dirToPlayer, out hit, disToPlayer))
+            {
+                if(hit.transform.tag == "Player")
+                {
+                    found = true;
+                }
+                else
+                {
+                    found = false;
+                }
+            }
         }
     }
 

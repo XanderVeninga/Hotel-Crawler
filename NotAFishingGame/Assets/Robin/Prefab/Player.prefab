@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 6866996684901025259}
   - component: {fileID: 6866996684901025258}
   - component: {fileID: 6866996684901025261}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ground:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 128
   rayDistanceGround: 0.52
   sphereRadius: 0.5
 --- !u!33 &6866996684901025256
