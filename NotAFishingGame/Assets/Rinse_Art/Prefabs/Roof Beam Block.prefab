@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
 --- !u!1 &1719416502909189604
+=======
+--- !u!1 &2032508199717419353
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,10 +12,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Roof Beam Block.prefab
   - component: {fileID: 2060195204671530846}
   - component: {fileID: 3114400816847907067}
   - component: {fileID: 926725862835297329}
   - component: {fileID: 2489679436436218}
+========
+  - component: {fileID: 3646026551765197189}
+  - component: {fileID: 375648429312077344}
+  - component: {fileID: 2509179029572328170}
+>>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Wall Doorway 2.prefab
+=======
+  - component: {fileID: 1693137804307588067}
+  - component: {fileID: 2364636410713402438}
+  - component: {fileID: 519065147593332876}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Roof Beam Block
   m_TagString: Untagged
@@ -19,36 +35,60 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!4 &2060195204671530846
+=======
+--- !u!4 &1693137804307588067
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1719416502909189604}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.94554496, y: 0.32595575, z: -0.8999995}
+=======
+  m_GameObject: {fileID: 2032508199717419353}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5, y: 3, z: 1.25}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!33 &3114400816847907067
+=======
+--- !u!33 &2364636410713402438
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1719416502909189604}
   m_Mesh: {fileID: -5495902117074765545, guid: 2f1f50dc06a910a4ebc34e2784a20fe1, type: 3}
 --- !u!23 &926725862835297329
+=======
+  m_GameObject: {fileID: 2032508199717419353}
+  m_Mesh: {fileID: -5495902117074765545, guid: 688edcd38e8529d40b37e53ccc02c6ad, type: 3}
+--- !u!23 &519065147593332876
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1719416502909189604}
+=======
+  m_GameObject: {fileID: 2032508199717419353}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -62,7 +102,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 2100000, guid: 863f15afcdd233543ba1ea436e5ced4d, type: 2}
+=======
+  - {fileID: 2100000, guid: fec45320b07aa804683dadba8f3e5ccc, type: 2}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,6 +128,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Roof Beam Block.prefab
 --- !u!65 &2489679436436218
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -97,3 +143,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.5, z: 0.5}
   m_Center: {x: 0, y: 0, z: 0}
+========
+>>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Wall Doorway 2.prefab
+=======
+>>>>>>> Stashed changes

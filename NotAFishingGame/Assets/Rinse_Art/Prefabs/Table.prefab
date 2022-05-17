@@ -1,6 +1,14 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
 --- !u!1 &7272741586253872716
+=======
+--- !u!1 &1224776077287221340
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+--- !u!1 &5459889652389282001
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,47 +16,112 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
   - component: {fileID: 8045161061465138422}
   - component: {fileID: 6343879492416580435}
   - component: {fileID: 9218036659121086361}
   - component: {fileID: 4934978383427782920}
   m_Layer: 0
   m_Name: Table
+=======
+  - component: {fileID: 1996387621720928998}
+  - component: {fileID: 3178217953156316483}
+  - component: {fileID: 864615444130449801}
+  - component: {fileID: 6513433931504963859}
+  m_Layer: 0
+  m_Name: Kapstok
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+  - component: {fileID: 4651862287421725291}
+  - component: {fileID: 8584256232242664910}
+  - component: {fileID: 5820217274561274116}
+  m_Layer: 0
+  m_Name: Table
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
 --- !u!4 &8045161061465138422
+=======
+--- !u!4 &1996387621720928998
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+--- !u!4 &4651862287421725291
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
   m_GameObject: {fileID: 7272741586253872716}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.7896318, y: 0.00000005280279, z: 12.028793}
+=======
+  m_GameObject: {fileID: 1224776077287221340}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.4104052, y: 0.012598734, z: 11.61006}
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+  m_GameObject: {fileID: 5459889652389282001}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.6178129, y: -0.00000024522043, z: 11.255739}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
 --- !u!33 &6343879492416580435
+=======
+--- !u!33 &3178217953156316483
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+--- !u!33 &8584256232242664910
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
   m_GameObject: {fileID: 7272741586253872716}
   m_Mesh: {fileID: 2534964839176971238, guid: ff1f9a6e644da1447a701ac2501c589f, type: 3}
 --- !u!23 &9218036659121086361
+=======
+  m_GameObject: {fileID: 1224776077287221340}
+  m_Mesh: {fileID: 1825875415147931077, guid: 659d7f5412d55e944a1fba629f167f28, type: 3}
+--- !u!23 &864615444130449801
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+  m_GameObject: {fileID: 5459889652389282001}
+  m_Mesh: {fileID: 2534964839176971238, guid: ff1f9a6e644da1447a701ac2501c589f, type: 3}
+--- !u!23 &5820217274561274116
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
   m_GameObject: {fileID: 7272741586253872716}
+=======
+  m_GameObject: {fileID: 1224776077287221340}
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+  m_GameObject: {fileID: 5459889652389282001}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -62,7 +135,15 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
   - {fileID: 2100000, guid: 6f5d12d9a003758439317bef2b031471, type: 2}
+=======
+  - {fileID: 2100000, guid: 3b168de0dd70b184997f959fc11750ce, type: 2}
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+  - {fileID: 2100000, guid: 6f5d12d9a003758439317bef2b031471, type: 2}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,12 +165,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
 --- !u!64 &4934978383427782920
 MeshCollider:
+=======
+--- !u!136 &6513433931504963859
+CapsuleCollider:
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:NotAFishingGame/Assets/Rinse_Art/Prefabs/Table.prefab
   m_GameObject: {fileID: 7272741586253872716}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -98,3 +186,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 2534964839176971238, guid: ff1f9a6e644da1447a701ac2501c589f, type: 3}
+=======
+  m_GameObject: {fileID: 1224776077287221340}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.2560133
+  m_Height: 2.11506
+  m_Direction: 1
+  m_Center: {x: -0.000000014901161, y: 1.0449313, z: 0.0013737977}
+>>>>>>> Stashed changes:NotAFishingGame/Assets/Rinse_Art/Prefabs/Kapstok.prefab
+=======
+>>>>>>> Stashed changes

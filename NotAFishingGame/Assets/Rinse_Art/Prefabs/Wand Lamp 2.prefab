@@ -11,7 +11,11 @@ GameObject:
   - component: {fileID: 8317298948340399152}
   - component: {fileID: 4954840053512680341}
   - component: {fileID: 7144916343942334303}
+<<<<<<< Updated upstream
   - component: {fileID: 4311120731676232521}
+=======
+  - component: {fileID: 818141515911107817}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Wand Lamp 2
   m_TagString: Untagged
@@ -84,7 +88,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!64 &4311120731676232521
+=======
+--- !u!64 &818141515911107817
+>>>>>>> Stashed changes
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
